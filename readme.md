@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anik</h1>
-<h3 align="center">1st-year RUET student and a passionate full-stack developer</h3>
+<h3 align="center">1st-year RUET CSE student and a passionate full-stack developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusarimrananik&label=Profile%20views&color=0e75b6&style=flat" alt="tusarimrananik" /> </p>
 
-- 🌱 I’m currently learning **🌱 I’m currently learning React and Next.js.**
+- 🌱 I’m currently learning React and Next.js.**
 
 - 💬 Ask me about **💬 Ask me about web development, Node.js, or Python.**
 
