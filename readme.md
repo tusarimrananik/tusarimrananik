@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning React and Next.js.**
 
-- 💬 Ask me about **💬 Ask me about web development, Node.js, or Python.**
+- 💬 Ask me about web development, Node.js, or Python.**
 
 - 📫 How to reach me **tusarimrananik@gmail.com**
 
-- ⚡ Fun fact **⚡ Fun fact: I love solving complex physics problems in my free time!**
+- ⚡ Fun fact I love solving complex physics problems in my free time!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
