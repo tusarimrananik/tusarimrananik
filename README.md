@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anik</h1>
 <h3 align="center">🎓 1st-year RUET CSE student | 💻 Passionate Full-Stack Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<!-- 🔥 Typing SVG Animation -->
+<img align="right" src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F7FF&center=false&vCenter=true&width=400&lines=Full-Stack+Developer;Next.js+%26+React+Enthusiast;RUET+CSE+Student" alt="Typing SVG" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=tusarimrananik&label=Profile%20views&color=0e75b6&style=flat" alt="tusarimrananik" /> 
@@ -73,3 +74,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusarimrananik&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
