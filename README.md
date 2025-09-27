@@ -9,7 +9,6 @@
 - Full-stack developer with focus on **Next.js, TypeScript, Node.js**
 - Passionate about **scalable systems, clean code, and performance**
 - Exploring **cloud-native architecture and backend engineering**
-- 📫 **tusarimrananik@gmail.com**
 
 ---
 
