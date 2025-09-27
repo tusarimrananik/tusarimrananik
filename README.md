@@ -1,18 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anik</h1>
 <h3 align="center">Full-Stack Developer | Software Engineer | RUET CSE Student</h3>
 
-<!-- Optional typing effect (kept minimal & professional) -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Software+Engineer;RUET+CSE+Student" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
 - 🌱 Currently learning **Next.js, TypeScript, and scalable backend systems**  
 - 💡 Interested in **Full-Stack Development, System Design, and Cloud Technologies**  
 - 📫 Reach me at **tusarimrananik@gmail.com**  
-- 🏗️ Always open to collaborating on impactful projects  
+- 🏗️ Open to collaborating on impactful projects  
 
 ---
 
@@ -34,10 +29,11 @@ Git · GitHub · Postman · Figma · Linux
 
 ### 📌 Featured Projects
 🔹 [Portfolio Website](#) – Built with Next.js & TailwindCSS  
-🔹 [RESTful API Service](#) – Node.js + Express + MongoDB  
-🔹 [Project 3 Title](#) – (Replace with one of your best repos)  
+🔹 [Task Manager App](#) – Next.js + Node.js + MongoDB (Full CRUD)  
+🔹 [RESTful API Service](#) – Node.js + Express + MongoDB (with Postman docs)  
+🔹 [Chat App](#) – Real-time messaging with Socket.io  
 
-👉 Pin your top 3–4 repos on GitHub for easy access.  
+👉 Pin these repos on GitHub so recruiters can access them quickly.  
 
 ---
 
