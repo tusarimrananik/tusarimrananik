@@ -49,16 +49,6 @@ Learn deeply → Build useful products → Test with real users → Improve cont
 
 I am working toward becoming an **AI Product Engineer** who can design, build, and ship complete products—not just isolated features.
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tusarimrananik&show_icons=true&hide_border=true&theme=transparent" alt="Tusar Imran's GitHub statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusarimrananik&layout=compact&hide_border=true&theme=transparent" alt="Most-used languages" />
-</p>
-
 ---
 
 <p align="center">
